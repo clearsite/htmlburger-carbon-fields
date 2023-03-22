@@ -1,0 +1,13 @@
+{
+    "name": "clearsite/htmlburger-carbon-fields",
+    "description": "WordPress plugin loader for Carbon Fields.",
+    "license": "GPL-2.0",
+    "type": "wordpress-plugin",
+    "homepage": "http://carbonfields.net/",
+    "authors": [
+        {
+            "name": "atanas-angelov-dev",
+            "email": "atanas.angelov.dev@gmail.com"
+        }
+    ]
+}
